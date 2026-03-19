@@ -1,0 +1,18 @@
+{
+  "name": "microsoft-acc-rating-bot",
+  "version": "0.1.0",
+  "description": "A Discord bot that provides a mock rating for a Microsoft account.",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node src/bot.js",
+    "register-commands": "node src/register-commands.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  },
+  "license": "MIT"
+}
