@@ -1,7 +1,7 @@
 {
   "name": "microsoft-acc-rating-bot",
   "version": "0.1.0",
-  "description": "A Discord bot that provides a mock rating for a Microsoft account.",
+  "description": "A Discord bot that provides RAT hacking method analysis and credential verification.",
   "main": "src/bot.js",
   "scripts": {
     "start": "node src/bot.js",
